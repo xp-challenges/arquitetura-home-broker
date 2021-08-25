@@ -11,14 +11,11 @@ Precisamos montar um Home Broker que tenha capacidade de suportar uma carga alta
 
 ## Fluxos
 
-Autenticação
-Como você faria a autenticação no HB
+**Autenticação** -> Como você faria a autenticação no HB
 
-Negociação
-Como funcionaria o fluxo de disparo de ordens de compra e venda
+**Negociação** -> Como funcionaria o fluxo de disparo de ordens de compra e venda
 
-Cotação
-Como você atualizaria o home broker com as cotações em realtime
+**Cotação** -> Como você atualizaria o home broker com as cotações em realtime
 
 ## Observação
 
