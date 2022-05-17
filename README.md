@@ -3,6 +3,9 @@
 Neste teste gostariamos de analisar como você resolveria o cenário de desenvolvimento de um Home Broker.
 Monte a arquitetura de solução numa ferramenta como draw.io.
 
+As cotações são recebidas através de eventos da B3
+As ordens devem ser enviadas para a B3
+
 Caso tenha alguma duvida, abra uma ISSUE e entre em contato conosco.
 
 ## O cenário
